@@ -1,6 +1,6 @@
 # First-Person Camera Mod (UE4SS)
 
-Download [CurseForge Profile](https://www.curseforge.com/members/daoa/projects)
+Download [CurseForge Profile](https://www.curseforge.com/runescape-dragonwilds/ue4ss-mods/v-first-person)
 
 ---
 
