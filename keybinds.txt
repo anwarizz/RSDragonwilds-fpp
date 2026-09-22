@@ -1,0 +1,5 @@
+toggle=V
+first_person_on=F6
+first_person_off=F7
+toggle_head_debug=F8
+dump_mesh_debug=F9
